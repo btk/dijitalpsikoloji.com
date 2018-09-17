@@ -36,7 +36,7 @@ We [touch our phone 2,617 times a day and unlock it 76 times](https://blog.dscou
 
 
 ### Push notifications
-According to Localytics, [52%](http://info.localytics.com/blog/52-percent-of-users-enable-push-messaging) of all mobile users enable push notifications on their phone. If done right, they can have open-rates of up to [80%](http://blog.thanx.com/push-notification-open-rate-statistics-50-80) and are, therefore, effective external triggers to persuade people to complete certain tasks. Good push notifications are well-timed, explicit, and spark curiosity.
+According to Localytics, [52%](http://info.localytics.com/blog/52-percent-of-users-enable-push-messaging) of all mobile users enable push notifications on their phone. If done right, they can have open-rates of up to [80%](https://www.thanx.com/push-notifications-vs-email-whats-better-for-reaching-customers/) and are, therefore, effective external triggers to persuade people to complete certain tasks. Good push notifications are well-timed, explicit, and spark curiosity.
 
 ![Triggers Example: Push notifications](03-push-notifications.png)
 

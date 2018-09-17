@@ -41,7 +41,7 @@ function Footer(props) {
     const siteDescription
         = `Digital Psychology – a free library of psychological principles`
         + ` and examples for inspiration to enhance the customer experience and`
-        + ` influence your user's behavior`;
+        + ` connect with your users`;
 
     return (
         <Root>
