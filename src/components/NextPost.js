@@ -10,10 +10,14 @@ const Root = styled.div`
     @media (min-width: 500px) {
         padding: 0 ${sizes.xl} ${sizes.l};
     }
+
+    h3 {
+        margin: 0;
+    }
 `;
 
 const Anchor = styled(Link)`
-    ${linkStyle}
+    ${linkStyle};
 `;
 
 function NextPost(props) {
@@ -22,9 +26,7 @@ function NextPost(props) {
     return (
         <Root>
             <h3>
-                <Anchor to={props.to}>
-                    {`Next: ${props.title}`}
-                </Anchor>
+                <Anchor to={props.to}>{`Next: ${props.title}`}</Anchor>
             </h3>
         </Root>
     );

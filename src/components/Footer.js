@@ -51,11 +51,6 @@ function Footer(props) {
                     <OutgoingLink to={`https://twitter.com/${props.twitterHandle}`}>
                         Daniel Stefanovic
                     </OutgoingLink>
-                    . Sponsored by{' '}
-                    <OutgoingLink
-                        to={`https://nolt.io/?utm_source=DigitalPsychology&utm_medium=referral&utm_campaign=footer`}>
-                        Nolt – Feedback management
-                    </OutgoingLink>
                     .
                 </Info>
 

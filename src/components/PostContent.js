@@ -5,10 +5,10 @@ import { colors, linkStyle, sizes } from '../css/variables';
 import Container from './Container';
 
 const Root = styled(Container)`
-    margin: ${sizes.l} 2rem;
+    margin: ${sizes.l} 2rem 2.5rem;
 
     @media (min-width: 500px) {
-        margin: ${sizes.l} ${sizes.xl};
+        margin: ${sizes.l} ${sizes.xl} 2.5rem;
     }
 
     img {
@@ -16,7 +16,7 @@ const Root = styled(Container)`
     }
 
     a {
-        ${linkStyle}
+        ${linkStyle};
     }
 `;
 

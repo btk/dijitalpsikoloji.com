@@ -5,12 +5,13 @@ import NextPost from '../components/NextPost';
 import Pagination from '../components/Pagination';
 import PostContent from '../components/PostContent';
 import SeoMetaTags from '../components/SeoMetaTags';
+import Sponsor from '../components/Sponsor';
 
 function Post(props) {
     const post = props.data.markdownRemark;
     const meta = props.data.site.siteMetadata;
-    const seoImage = meta.siteUrl
-        + R.path(['frontmatter', 'seoImage', 'childImageSharp', 'resize', 'src'], post);
+    const seoImage
+        = meta.siteUrl + R.path(['frontmatter', 'seoImage', 'childImageSharp', 'resize', 'src'], post);
 
     // Get paths for pagination
     const edgesPath = ['data', 'allMarkdownRemark', 'edges'];
@@ -37,6 +38,7 @@ function Post(props) {
                 url={meta.siteUrl + post.fields.path} />
             <Pagination next={nextPath} previous={previousPath} />
             <PostContent content={post.html} title={post.frontmatter.title} />
+            <Sponsor />
             <NextPost title={nextTitle} to={nextPath} />
         </div>
     );
@@ -75,7 +77,7 @@ export const pageQuery = graphql`
                 }
             }
         }
-        allMarkdownRemark (
+        allMarkdownRemark(
             filter: { frontmatter: { draft: { ne: true } } }
             sort: { fields: [fields___slug] }
         ) {
