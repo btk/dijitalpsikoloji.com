@@ -22,7 +22,7 @@ const Box = styled.div`
         align-items: center;
         padding: 2rem 3rem;
         border: 1px solid ${colors.border};
-        color: ${colors.heading};
+        color: ${colors.text};
     }
 
     img {
