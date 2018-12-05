@@ -32,7 +32,7 @@ function Post(props) {
                 image={{ url: seoImage, width: 1000, height: 500 }}
                 logo={{ url: `${meta.siteUrl}/logo-structured-data.png`, width: 600, height: 60 }}
                 publisher={meta.title}
-                title={`${post.frontmatter.title} » ${meta.title}`}
+                title={`${post.frontmatter.title} - ${meta.title}`}
                 twitterHandle={meta.twitterHandle}
                 type="article"
                 url={meta.siteUrl + post.fields.path} />

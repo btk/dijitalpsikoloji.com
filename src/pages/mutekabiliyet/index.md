@@ -1,16 +1,14 @@
 ---
-title: Reciprocity
+title: Mütekabiliyet
 draft: false
 datePublished: "2017-09-11T08:15:15Z"
 image: 5,6,7,8,9,10,11,12,13,14,15,16|4,5,6,7,8,9,10,11,12,13,14,15,16,17|4,5,6,7,8,9,10,11,12,13,14,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|15,16,17|5,15,16,17|4,5,6,15,16,17|3,4,5,6,7,15,16,17|2,3,4,5,6,7,8,15,16,17|4,5,6,13,14,15,16,17,18,19|4,5,6,14,15,16,17,18|4,5,6,15,16,17|4,5,6,16|4,5,6|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,7,8,9,10,11,12,13,14,15,16,17|4,5,6,7,8,9,10,11,12,13,14,15,16,17|5,6,7,8,9,10,11,12,13,14,15,16
 seoImage: "seo-image.png"
 ---
 
-*“You will get all you want in life if you help enough other people get what they want.”* Zig Ziglar
+*“Eğer yeterince insana istediklerini elde etmeleri için yardım edersen, hayatta istediğin her şeyi elde edebilirsin.”* Zig Ziglar
 
-
-We feel a sense of obligation to return favors to people who have done something for us. This rule works not only with people you know but also with strangers. It's a human characteristic that allows us to live as a society ([Gouldner, 1960](https://www.jstor.org/stable/2092623?seq=1#page_scan_tab_contents)).
-
+Bize iyilik yapan insanlara iyilik yapmak gibi bir sorumluluğumuz olduğunu hissederiz. Bu kural tanıdığınız veya sosyal çevrenizdekiler için geçerliyken, tanımadığınız insanlar için de geçerlidir. Bu insanların topluluklar halinde yaşamasını sağlayan bir karakteristiktir ([Gouldner, 1960](https://www.jstor.org/stable/2092623?seq=1#page_scan_tab_contents)).
 
 ## Studies
 

@@ -39,33 +39,34 @@ const Anchor = styled(OutgoingLink)`
 
 function Footer(props) {
     const siteDescription
-        = `Digital Psychology – a free library of psychological principles`
-        + ` and examples for inspiration to enhance the customer experience and`
-        + ` connect with your users`;
+        = `Dijital Psikoloji – psikolojik prensiplerin ve müşteri deneyimini arttırmak için`
+        + ` esinlenilebilecek örneklerin bulunduğu, kullanıcılar ile bağlantı oluşturmanızı`
+        + ` sağlayacak ücretsiz bir kütüphanedir`;
 
     return (
         <Root>
             <Container>
                 <Info>
-                    {siteDescription}. Written by{' '}
+                    {siteDescription}. {' '}
+                    <p>
                     <OutgoingLink to={`https://twitter.com/${props.twitterHandle}`}>
                         Daniel Stefanovic
-                    </OutgoingLink>
-                    .
+                    </OutgoingLink> tarafından yazıldı. {' '}
+                    </p>
+                    <p>
+                    <OutgoingLink to={`https://twitter.com/BurakTokak`}>
+                        Burak Tokak
+                    </OutgoingLink> tarafından Türkçeleştirildi.
+                    </p>
                 </Info>
 
                 <ul>
                     <li>
-                        <Anchor to="http://bit.ly/digital-psychology-updates">
-                            {`Subscribe to updates`}
-                        </Anchor>
-                    </li>
-                    <li>
                         <Anchor
                             to={`http://twitter.com/share?text=${encodeURIComponent(
                                 siteDescription
-                            )}&url=http://digitalpsychology.io`}>
-                            {`Share on Twitter`}
+                            )}&url=https://dijitalpsikoloji.com`}>
+                            {`Twitter'da Paylaş`}
                         </Anchor>
                     </li>
                 </ul>

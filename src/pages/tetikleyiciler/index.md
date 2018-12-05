@@ -1,16 +1,16 @@
 ---
-title: Triggers
+title: Tetikleyiciler
 draft: false
 datePublished: "2017-09-11T08:15:15Z"
 image: 12|11,12|11,12|10,11|9,10,11|8,9,10,11|8,9,10|7,8,9,10|6,7,8,9,10,11,12,13,14,15,16,17|5,6,7,8,9,10,11,12,13,14,15,16|5,6,7,8,9,10,11,12,13,14,15,16|4,5,6,7,8,9,10,11,12,13,14,15|11,12,13,14|11,12,13|10,11,12,13|10,11,12|10,11|9,10|9,10|9
 seoImage: "seo-image.png"
 ---
 
-Triggers are anything that sparks us to complete a particular action. They tell us what to do next, and come in the form of internal and external triggers.
+Tetikleyiciler, bizi bir şeyi tamamlamaya iten herhangi bir şey olabilir. Tetikleyiciler bize sonraki adımımızı söyleyen ve içten veya dıştan gelen tetikleyiciler halinde oluşabilirler.
 
-External triggers are all around us. They target our senses and remind us to take a particular action. It can be something obvious like a “Click here” button, but also something like the delicious smell of fresh coffee and cake while you’re walking down the street.
+Dıştan gelen tetikleyicilerin her tarafta olduğunu söyleyebiliriz. Bu tetikleyiciler algılarımızı kullanarak bize belirli bir aksiyonu tamamlamamız için hatırlamalar yapar. Bunlar bir web sayfasında "buraya tıkla" gibi bir buton halinde olabilirken, yürüdüğünüz sokaktaki buram buram konan taze kahve ve kek kokusu halinde olabilir.
 
-Internal triggers, on the other hand, are impulses that come from within us. Memories, emotions, or situations provide information for what to do next. For example, the fear of losing out on a moment triggers some people to take a photo and post it on Instagram. Internal triggers are a major factor for building habit-forming products, and are the drivers for the growth of billion dollar companies.
+Diğer yandan, içten gelen tetikleyiciler ise içimizde oluşan dürtüler olarak özetlenebilir. Hatıralar, duygular veya içinde buluduğumuz durumun içselleştirilmesi ile oluşabilecek dürtüler, örnek olarak bazı insanlar içinde bulundukları durumu unutma kaygısıyla telefonu ile fotoğraf çekip Instagram'a yükler. İçten gelen tetikleyiciler, alışkanlık oluşturmanın önemli olduğu ürünlerin başarısında büyük bir öneme sahiptir.
 
 
 ## Studies

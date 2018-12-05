@@ -9,7 +9,7 @@ export const colors = {
 
 export const fonts = {
     heading: `
-        font-family: 'Roboto mono', monospace;
+        font-family: 'Roboto Mono', monospace;
         font-weight: 500;
         color: ${colors.heading};
         letter-spacing: 1px;

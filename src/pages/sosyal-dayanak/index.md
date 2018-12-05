@@ -1,15 +1,14 @@
 ---
-title: Social Proof
+title: Sosyal Dayanak
 draft: false
 datePublished: "2017-09-11T08:15:15Z"
 image: 0|14|14,15|13,14,15|13,14,15|12,13,14|11,12,13,14|10,11,12,13|2,3,9,10,11,12,13,14,15,16,17,18|2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19|2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19|2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19|2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19|2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19|2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19|2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19|2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19|2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18|2,3,8,9,10,11,12,13,14,15,16,17
 seoImage: "seo-image.png"
 ---
 
-*"When you say it, it's marketing. When your customer says it, it's social proof."* Andy Crestodina
+*"Sen söylediğinde pazarlama yapıyor olursun, ama müşterin söylerse bu bir sosyal dayanak olur."* Andy Crestodina
 
-People are pack animals. We are more likely to do something when presented with evidence that others have done it, more than we are willing to admit. This behavior applies in particular when we are unsure of what to do.
-
+İnsanlar sürü hayvanlarıdır. Kabul etmek istemesek de, başkalarının yaptığını veya sahip olduğunu gördüğümüz bir şeyi yapma veya edinme olasılığımız çok daha yüksektir. Bu davranış özellikle ne yapacağımız konusunda tam olarak emin olmadığımız durumlarda kendini gösterir.
 
 ## Studies
 

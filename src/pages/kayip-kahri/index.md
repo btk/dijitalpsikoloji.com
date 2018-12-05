@@ -1,14 +1,14 @@
 ---
-title: Loss Aversion
+title: Kayıp Kahrı
 draft: false
 datePublished: "2017-09-11T08:15:15Z"
 image: 10,11|10,11|9,10,11,12|9,10,11,12|8,9,10,11,12,13|8,9,10,11,12,13|7,8,9,10,11,12,13,14|7,8,9,10,11,12,13,14|6,7,8,9,10,11,12,13,14,15|6,7,8,9,10,11,12,13,14,15|5,6,7,8,9,10,11,12,13,14,15,16|5,6,7,8,9,10,11,12,13,14,15,16|4,5,6,7,8,9,10,11,12,13,14,15,16,17|4,5,6,7,8,9,10,11,12,13,14,15,16,17|4,5,7,8,9,10,11,12,13,14,15,16,17|4,5,8,9,10,11,12,13,14,15,16,17|5,6,9,10,11,12,13,14,15,16|5,6,7,10,11,12,13,14,15,16|6,7,8,9,10,11,12,13,14,15|8,9,10,11,12,13
 seoImage: "seo-image.png"
 ---
 
-People feel losses more deeply than gains of the same value. In other words, it's more painful to lose something than to get that same thing.
+İnsanlar eşit değerdeki kayıplarını, kazançlarından daha etkili şekilde hissederler. Atasözünün tam tersine, kaybettiği eşşeğin kahrını çeken birisi, eşşeğini bulduğunda başlangıç noktasının askine aynı tatmini hissetmeyecektir.
 
-Imagine you overhear your boss talking to the HR manager about giving you a raise of $200 per month. How would you feel about this surprising boost in pay? How would you feel if you hear your boss saying he wants to cut your salary by the same amount?
+Patronununuzun IK müdürü ile size aylık 200 TL zam yapacağını duyduğunuzu farz edelim. Maaşınızdaki bu artış konusunda nasıl hissederdiniz? Peki başka bir senaryoda patronunuzun maaşınızdan aynı miktarda kesinti yapacağını duyarsanız nasıl hissedersiniz?
 
 
 ## Studies
@@ -79,5 +79,3 @@ Everyone has that one friend who takes pictures of anything and everything. Usua
 As things become less available, they become more desirable. The fear of losing out on something can be a huge motivator. Sometimes, the buzz created by scarcity is sufficient to create a rush of panic buying. Because it's such a powerful tool, I've dedicated a whole post to the [principle of scarcity](/scarcity/).
 
 ![Loss Aversion Example: Scarcity](10-scarcity.png)
-
-

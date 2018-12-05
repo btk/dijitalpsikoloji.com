@@ -1,12 +1,12 @@
 module.exports = {
     pathPrefix: `/`,
     siteMetadata: {
-        author: `Daniel Stefanovic`,
-        description: `A free library of psychological principles and examples`
-            + ` to elevate your SaaS, e-commerce or other digital products.`,
+        author: `Burak Tokak`,
+        description: `SaaS, e-ticaret ve diğer dijital ürünlerinizin verimini arttırmak için`
+            + ` kullanabileceğiniz ücretsiz ve örneklerle destekli bir psikolojik prensip kütüphanesidir.`,
         facebookAppId: `310591556081648`,
-        siteUrl: `http://digitalpsychology.io`,
-        title: `Digital Psychology`,
+        siteUrl: `https://dijitalpsikoloji.com`,
+        title: `Dijital Psikoloji`,
         twitterHandle: `danistefanovic`
     },
     plugins: [
@@ -41,8 +41,8 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Digital Psychology`,
-                short_name: `Digital Psychology`, // eslint-disable-line camelcase
+                name: `Dijital Psikoloji`,
+                short_name: `Dijital Psikoloji`, // eslint-disable-line camelcase
                 start_url: `/?utm_source=homescreen`, // eslint-disable-line camelcase
                 background_color: `#ffffff`, // eslint-disable-line camelcase
                 theme_color: `#ffffff`, // eslint-disable-line camelcase
@@ -81,7 +81,7 @@ module.exports = {
         {
             resolve: `gatsby-plugin-google-analytics`,
             options: {
-                trackingId: `UA-104474552-1`
+                trackingId: `UA-130503433-1`
             }
         }
     ]

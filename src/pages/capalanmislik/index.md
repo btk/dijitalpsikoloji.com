@@ -1,12 +1,12 @@
 ---
-title: Anchoring
+title: Çapalanmışlık
 draft: false
 datePublished: "2017-09-11T08:15:15Z"
 image: 9,10,11,12|9,10,11,12|9,10,11,12|9,10,11,12|10,11|10,11|10,11|7,8,9,10,11,12,13,14|10,11|10,11|10,11|10,11|10,11|10,11|2,10,11,19|2,3,4,5,9,10,11,12,16,17,18,19|3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18|5,6,7,8,9,10,11,12,13,14,15,16|7,8,9,10,11,12,13,14|9,10,11,12
 seoImage: seo-image.png
 ---
 
-We tend to rely too heavily on one piece of information, usually the first one, when making a decision or estimating the value of uncertain objects. This initial "anchor" value is used as a mental reference point, which might influence the choice peoples will make.
+Belirsiz bir nesneye değer biçerken veya bir şeye karar verirken, bir parça bilgiye güvenme eğilimindeyiz, bu genelde bize sunulan ilk bilgidir. Bu ilk "çapalanmış" bilgi veya değer, beynimiz tarafından zihinsel bir referans noktası olarak kullanılır, ve bu değer insanların vereceği kararları etkileyebilir.
 
 
 ## Studies

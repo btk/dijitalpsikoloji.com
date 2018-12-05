@@ -26,7 +26,7 @@ function NextPost(props) {
     return (
         <Root>
             <h3>
-                <Anchor to={props.to}>{`Next: ${props.title}`}</Anchor>
+                <Anchor to={props.to}>{`Sonraki: ${props.title}`}</Anchor>
             </h3>
         </Root>
     );
