@@ -4,12 +4,13 @@
   "version": "1.0.0",
   "author": "Daniel Stefanovic <daniel.stefanovic@gmail.com>",
   "scripts": {
-    "build": "yarn run clean && gatsby build",
+    "build": "gatsby build",
     "clean": "rm -rf public/ && rm -rf .cache/ ",
     "lint": "eslint ./",
     "prod": "http-server ./public",
     "start": "gatsby develop",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "preDeploy": "gatsby build --prefix-paths",
+    "deploy": "npm run preDeploy && gh-pages -d public"
   },
   "dependencies": {
     "gatsby": "^1.9.24",
