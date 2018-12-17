@@ -1,8 +1,21 @@
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+  - node_modules
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: $98272cc87d60cf05a1e75128d5bd9c747daceaaa  # Set in the settings page of your repository, as a secure variable
+  github-token: 98272cc87d60cf05a1e75128d5bd9c747daceaaa
+  local_dir: public
   keep-history: true
   on:
     branch: master
-    
+before_script:
+  - "npm i -g gatsby"
+  - "npm i"
+script:
+  - "npm run test"
+after_success:
+  - "npm run deploy"
