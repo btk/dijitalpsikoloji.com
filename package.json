@@ -8,7 +8,8 @@
     "clean": "rm -rf public/ && rm -rf .cache/ ",
     "lint": "eslint ./",
     "prod": "http-server ./public",
-    "start": "gatsby develop"
+    "start": "gatsby develop",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
     "gatsby": "^1.9.24",
