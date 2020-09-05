@@ -43,11 +43,10 @@ function Sponsor() {
                 <h3>Sponsor</h3>
                 <Box>
                     <OutgoingLink
-                        to={`https://nolt.io/?utm_source=DigitalPsychology&utm_medium=referral&utm_campaign=footer`}>
+                        to={`https://dreamoriented.org`}>
                         <img src={sponsorImg} />
                         <span>
-                            <strong>Nolt</strong> – A free, fast & beautiful way to collect and organize user
-                            feedback.
+                            <strong>dreamoriented</strong> – Building creative solutions for accessibility & better human × tech interaction.
                         </span>
                     </OutgoingLink>
                 </Box>

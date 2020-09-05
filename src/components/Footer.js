@@ -51,12 +51,12 @@ function Footer(props) {
                     <p>
                     <OutgoingLink to={`https://twitter.com/${props.twitterHandle}`}>
                         Daniel Stefanovic
-                    </OutgoingLink> tarafından yazıldı. {' '}
+                    </OutgoingLink> derlendi ve MIT lisansına tabidir. {' '}
                     </p>
                     <p>
-                    <OutgoingLink to={`https://twitter.com/BurakTokak`}>
+                    <OutgoingLink to={`https://buraktokak.com`}>
                         Burak Tokak
-                    </OutgoingLink> tarafından Türkçeleştirildi.
+                    </OutgoingLink> tarafından Türkçeleştirildi ve eklemeler yapıldı, bu değişiklikler de MIT lisansına tabidir.
                     </p>
                 </Info>
 
