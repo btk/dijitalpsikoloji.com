@@ -1,52 +1,58 @@
 {
-  "name": "digitalpsychology",
-  "description": "Digitalpsychology.io website",
-  "version": "1.0.0",
-  "author": "Daniel Stefanovic <daniel.stefanovic@gmail.com>",
-  "scripts": {
-    "build": "gatsby build",
-    "clean": "rm -rf public/ && rm -rf .cache/ ",
-    "lint": "eslint ./",
-    "prod": "http-server ./public",
-    "start": "gatsby develop",
-    "preDeploy": "gatsby build --prefix-paths",
-    "deploy": "npm run preDeploy && gh-pages -d public"
-  },
+  "name": "dijitalpsikoloji",
+  "private": true,
+  "description": "Burak is an indie maker, trying to make things that makes people's lives better than before.",
+  "version": "0.1.0",
+  "author": "Burak Tokak <tokakburak@gmail.com>",
   "dependencies": {
-    "gatsby": "^1.9.24",
-    "gatsby-link": "^1.6.16",
-    "gatsby-plugin-google-analytics": "^1.0.7",
-    "gatsby-plugin-manifest": "^1.0.7",
-    "gatsby-plugin-offline": "^1.0.9",
-    "gatsby-plugin-react-helmet": "^1.0.6",
-    "gatsby-plugin-sharp": "^1.6.7",
-    "gatsby-plugin-sitemap": "^1.2.5",
-    "gatsby-plugin-styled-components": "^1.0.5",
-    "gatsby-remark-copy-linked-files": "^1.5.7",
-    "gatsby-remark-images": "^1.5.11",
-    "gatsby-remark-prismjs": "^1.2.7",
-    "gatsby-remark-responsive-iframe": "^1.4.7",
-    "gatsby-remark-smartypants": "^1.4.7",
-    "gatsby-source-filesystem": "^1.4.12",
-    "gatsby-transformer-remark": "^1.7.7",
-    "gatsby-transformer-sharp": "^1.6.5",
-    "gh-pages": "^2.0.1",
-    "is-in-browser": "^1.1.3",
-    "left-pad": "^1.1.3",
-    "ramda": "^0.24.1",
-    "react-helmet": "^5.2.0",
-    "styled-components": "^2.1.2"
+    "babel-plugin-styled-components": "^1.11.1",
+    "gatsby": "^2.13.51",
+    "gatsby-image": "^2.2.8",
+    "gatsby-plugin-google-analytics": "^2.3.4",
+    "gatsby-plugin-manifest": "^2.2.4",
+    "gatsby-plugin-offline": "^2.2.4",
+    "gatsby-plugin-react-helmet": "^3.1.3",
+    "gatsby-plugin-sharp": "^2.2.9",
+    "gatsby-plugin-sitemap": "^2.4.12",
+    "gatsby-plugin-styled-components": "^3.3.10",
+    "gatsby-remark-copy-linked-files": "^2.3.13",
+    "gatsby-remark-images": "^3.3.8",
+    "gatsby-remark-prismjs": "^3.5.11",
+    "gatsby-remark-responsive-iframe": "^2.4.12",
+    "gatsby-remark-smartypants": "^2.3.10",
+    "gatsby-source-filesystem": "^2.1.8",
+    "gatsby-transformer-remark": "^2.8.13",
+    "gatsby-transformer-sharp": "^2.2.5",
+    "left-pad": "^1.3.0",
+    "prismjs": "^1.21.0",
+    "prop-types": "^15.7.2",
+    "ramda": "^0.27.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "styled-components": "^5.2.0"
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.3",
-    "eslint": "^4.6.1",
-    "eslint-config-infektweb": "^1.18.0",
-    "eslint-plugin-babel": "^4.1.2",
-    "eslint-plugin-bdd": "^2.1.1",
-    "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-react": "^7.3.0",
-    "http-server": "^0.10.0"
+    "prettier": "^1.18.2"
   },
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
-  "main": "n/a"
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "push": "gatsby build && aws s3 rm s3://dreamoriented.org --recursive && aws s3 cp public s3://dreamoriented.org --recursive",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
 }

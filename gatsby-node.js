@@ -1,7 +1,7 @@
 const path = require('path');
 
-exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
-    const { createNodeField } = boundActionCreators;
+exports.onCreateNode = ({ node, actions, getNode }) => {
+    const { createNodeField } = actions;
     let slug = null;
 
     if (node.internal.type === `MarkdownRemark`) {
@@ -19,8 +19,8 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
     }
 };
 
-exports.createPages = ({ graphql, boundActionCreators }) => {
-    const { createPage } = boundActionCreators;
+exports.createPages = ({ graphql, actions }) => {
+    const { createPage } = actions;
 
     return new Promise((resolve, reject) => {
         const post = path.resolve('src/templates/Post.js');

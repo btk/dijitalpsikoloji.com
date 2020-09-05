@@ -1,11 +1,13 @@
-import R from 'ramda';
+import * as R from  'ramda';
 import React from 'react';
-
+import { graphql } from 'gatsby'
 import NextPost from '../components/NextPost';
 import Pagination from '../components/Pagination';
 import PostContent from '../components/PostContent';
 import SeoMetaTags from '../components/SeoMetaTags';
 import Sponsor from '../components/Sponsor';
+
+import Layout from '../layouts';
 
 function Post(props) {
     const post = props.data.markdownRemark;
@@ -23,7 +25,7 @@ function Post(props) {
     const previousPath = R.path([currentIndex - 1, 'node', 'fields', 'path'], edges);
 
     return (
-        <div>
+        <Layout>
             <SeoMetaTags
                 author={meta.author}
                 datePublished={post.frontmatter.datePublished}
@@ -40,7 +42,7 @@ function Post(props) {
             <PostContent content={post.html} title={post.frontmatter.title} />
             <Sponsor />
             <NextPost title={nextTitle} to={nextPath} />
-        </div>
+        </Layout>
     );
 }
 

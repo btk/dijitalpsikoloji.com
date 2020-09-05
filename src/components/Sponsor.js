@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import { colors, fonts, linkStyle, sizes } from '../css/variables';
+import { colors, sizes } from '../css/variables';
 import sponsorImg from '../../public/sponsor.png';
 import OutgoingLink from './OutgoingLink';
 import Container from './Container';
@@ -44,9 +44,9 @@ function Sponsor() {
                 <Box>
                     <OutgoingLink
                         to={`https://dreamoriented.org`}>
-                        <img src={sponsorImg} />
+                        <img src={sponsorImg} alt="dreamoriented" />
                         <span>
-                            <strong>dreamoriented</strong> – Building creative solutions for accessibility & better human × tech interaction.
+                            <strong>dreamoriented</strong> – Building solutions for accessibility & human × tech interaction.
                         </span>
                     </OutgoingLink>
                 </Box>

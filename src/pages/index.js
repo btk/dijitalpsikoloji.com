@@ -4,6 +4,8 @@ import PatternList from '../components/PatternList';
 import SeoMetaTags from '../components/SeoMetaTags';
 import image from './seo-image.png';
 
+import Layout from '../layouts';
+
 export default function Index(props) {
     const meta = props.data.site.siteMetadata;
     const posts = props.data.allMarkdownRemark.edges.map((edge) => ({
@@ -14,7 +16,7 @@ export default function Index(props) {
     })).filter((post) => post.slug !== '404');
 
     return (
-        <div>
+        <Layout>
             <SeoMetaTags
                 author={meta.author}
                 description={meta.description}
@@ -27,7 +29,7 @@ export default function Index(props) {
                 type="website"
                 url={meta.siteUrl} />
             <PatternList items={posts} />
-        </div>
+        </Layout>
     );
 }
 

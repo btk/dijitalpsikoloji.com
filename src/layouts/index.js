@@ -5,7 +5,7 @@ import styled from 'styled-components';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import config from '../../gatsby-config';
-import '../css/global';
+import { GlobalStyle } from '../css/global';
 
 const Root = styled.div`
     display: flex;
@@ -17,7 +17,7 @@ const Root = styled.div`
     }
 `;
 
-function Template(props) {
+function Template({ children }) {
     const meta = config.siteMetadata;
 
     // This "styled" component has to remain
@@ -30,13 +30,16 @@ function Template(props) {
     `;
 
     return (
+      <React.Fragment>
+        <GlobalStyle />
         <Root>
             <Header />
             <Main>
-                {props.children()}
+                {children}
                 <Footer twitterHandle={meta.twitterHandle} />
             </Main>
         </Root>
+      </React.Fragment>
     );
 }
 

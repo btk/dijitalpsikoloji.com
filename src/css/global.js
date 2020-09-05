@@ -1,8 +1,8 @@
-import { injectGlobal } from 'styled-components';
+import { createGlobalStyle } from 'styled-components';
 import { colors, fonts } from './variables';
 
 // eslint-disable-next-line no-unused-expressions
-injectGlobal`
+export const GlobalStyle = createGlobalStyle`
     /* latin-ext */
     @font-face {
       font-family: 'Roboto';
