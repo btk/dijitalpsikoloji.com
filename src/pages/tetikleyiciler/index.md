@@ -6,25 +6,26 @@ image: 12|11,12|11,12|10,11|9,10,11|8,9,10,11|8,9,10|7,8,9,10|6,7,8,9,10,11,12,1
 seoImage: "seo-image.png"
 ---
 
-Tetikleyiciler, bizi bir şeyi tamamlamaya iten herhangi bir şey olabilir. Tetikleyiciler bize sonraki adımımızı söyleyen ve içten veya dıştan gelen tetikleyiciler halinde oluşabilirler.
+Tetikleyiciler, bizi bir şeyi tamamlamaya iten herhangi bir şey olabilir. Tetikleyiciler bize sonraki adımımızı söyleyen, ilk bakışta fark edilmesi güç içten veya dıştan gelen dürtülerdir.
 
 Dıştan gelen tetikleyicilerin her tarafta olduğunu söyleyebiliriz. Bu tetikleyiciler algılarımızı kullanarak bize belirli bir aksiyonu tamamlamamız için hatırlamalar yapar. Bunlar bir web sayfasında "buraya tıkla" gibi bir buton halinde olabilirken, yürüdüğünüz sokaktaki buram buram konan taze kahve ve kek kokusu halinde olabilir.
 
 Diğer yandan, içten gelen tetikleyiciler ise içimizde oluşan dürtüler olarak özetlenebilir. Hatıralar, duygular veya içinde buluduğumuz durumun içselleştirilmesi ile oluşabilecek dürtüler, örnek olarak bazı insanlar içinde bulundukları durumu unutma kaygısıyla telefonu ile fotoğraf çekip Instagram'a yükler. İçten gelen tetikleyiciler, alışkanlık oluşturmanın önemli olduğu ürünlerin başarısında büyük bir öneme sahiptir.
 
 
-## Studies
+## Araştırmalar
 
-Ivan Pavlov demonstrated that dogs could be conditioned to salivate at the sound of a bell ([Pavlov, 1927](http://psychclassics.yorku.ca/Pavlov/)). He trained the dogs to respond in that way by ringing a bell before feeding them. This learning procedure came to be known as *classical conditioning*.
+Ivan Pavlov, köpeklerin bir zil sesiyle salya akıtılması için şartlandırılabileceğini gösterdi ([Pavlov, 1927](http://psychclassics.yorku.ca/Pavlov/)). Köpekleri beslemeden önce zil çalarak bu şekilde tepki vermeleri için eğitti. Bu öğrenme prosedürü *klasik koşullandırma* olarak bilinmeye başladı.
 
-According to BJ Fogg's behavior model, three elements must be present for the desired behavior to occur: motivation, ability, and trigger. In other words, it has to bring value, be simple to complete and should draw attention. If one or more is missing, the desired action will not happen ([Fogg, 2009](http://dl.acm.org/citation.cfm?doid=1541948.1541999)).
-
-
-## Examples
+BJ Fogg'un davranış modeline göre, istenen davranışın gerçekleşmesi için üç unsur mevcut olmalıdır: motivasyon, yetenek ve tetikleyici. Diğer bir deyişle, değer katmalı, tamamlaması basit olmalı ve dikkat çekmelidir. Bunlardan bir veya daha fazlası eksikse, istenen eylem gerçekleşmeyecektir ([Fogg, 2009](http://dl.acm.org/citation.cfm?doid=1541948.1541999)).
 
 
-### Calls to action
-Every CTA, like a button or some other form of graphic or text, which guides your users and tells them what to do next, is an external trigger. Even the smallest tweaks in copy, color, position, or size can lead to huge lifts in conversion rate: Black and Decker, for example, saw a [17% increase in click-through rate](https://blog.optimizely.com/2014/07/03/black-decker-discovers-big-win-in-buy-now-vs-shop-now-test/) by using "Buy now" instead of "Shop now." Even two words on a button can have a huge impact on essential metrics.
+## Örnekler
+
+
+### Harekete geçirici mesajlar (Call-to-action)
+
+Harekete geçirici mesajlar, kullanıcılarınıza rehberlik eden ve ne yapacaklarını söyleyen bir buton, grafik veya metin biçiminden oluşabilecek bir dış tetikleyicidir. Bu mesajların stilleri, renk, konum veya boyutlarındaki en küçük değişiklikler bile dönüşüm oranında büyük artışlara yol açabilir: Örneğin Black and Decker, "Alışveriş Yap" yerine "Şimdi satın al" butonu kullanarak [tıklama oranında %17 artış](https://blog.optimizely.com/2014/07/03/black-decker-discovers-big-win-in-buy-now-vs-shop-now-test/) elde etti. Bir butondaki bir-iki kelimenin bile temel ölçütler üzerinde büyük bir etkisi olabiliyor.
 
 ![Triggers Example: Call to actions](01-cta.png)
 
