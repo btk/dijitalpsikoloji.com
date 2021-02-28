@@ -6,10 +6,9 @@ image: 4,5,6,15,16,17|3,4,7,14,17,18|4,5,8,13,16,17|5,6,9,12,15,16|7,8,9,10,11,1
 seoImage: "seo-image.png"
 ---
 
-Everybody likes rewards and appreciation. A shot of dopamine gets released and mediates pleasure in the brain. The increase in the dopamine level also encourages our brain to remember the prior action so that we can repeat it to get the reward again. In other words: rewards make us come back for more.
+Herkes ödülleri ve takdir edilmeyi sever. Böyle durumlarda beyne dopamin salınır. Dopamin seviyesindeki artış aynı zamanda beynimizi önceki eylemi hatırlamaya teşvik eder, böylece ödülü tekrar almak için aldığımız aksiyonları veya yaptığımız şeyleri tekrar etme eğilimi göstermeye başlarız. Başka bir deyişle: ödüller, daha fazlası için geri gelmemizi sağlar.
 
-We distinguish between fixed and variable rewards. The first type is straightforward: we know exactly what to do to get rewarded. Every time the goal is reached we earn something. On the other hand, variable rewards are unpredictable and foster curiosity.
-
+Yapılan araştırmalar, sabit ve değişken ödüller arasında ayrım yaptığımızı gösteriyor. Sabit ödülde; ödül almak için ne yapacağımızı tam olarak bilir ve hedefe her ulaşıldığımızda bir ödülü kazanırız. Değişken ödüller ise tahmin edilemez ve merak uyandırır.
 
 ## Studies
 
