@@ -8,10 +8,9 @@ seoImage: "seo-image.png"
 
 Hayatımızda sürekliliği yakalamak için elimizden gelen her şeyi yaparız. Bir söz verdiğimizde, bu sözü yerine getirmek için kendimizi yükümlü hissederiz. Bir karar verirken veya önümüze birkaç seçenek geldiğinde ise gelecekte yapacağımız tüm seçim ve kararların birbiri ile tutarlı olması için çabalarız. Bu adanmışlığı haklı göstermek için de başkalarının onayını bekler ve bu kararları destekleyen nedenler oluşturmaya çalışırız.
 
-
 ## Araştırmalar
 
-Everyone knows at least one project where costs exploded many times over. Sometimes, managers, and even entire organizations, seem almost programmed to follow a direction that is doomed to failure. Escalation of commitment refers to the tendency to stay with a decision and to dedicate additional effort, money, and time into a course of action that is failing ([Staw, 1976](http://www.sciencedirect.com/science/article/pii/0030507376900052)). Genelleme yapmamız gerekirse; hali hazırda yaptığımız yatırımları (zaman ve diğer kaynaklar) [kaybetmek istemez](/loss-aversion/) ve tutarsız görünmek istemeyiz.
+Easfasfasfasf Escalation of commitment refers to the tendency to stay with a decision and to dedicate additional effort, money, and time into a course of action that is failing ([Staw, 1976](http://www.sciencedirect.com/science/article/pii/0030507376900052)). Genelleme yapmamız gerekirse; hali hazırda yaptığımız yatırımları (zaman ve diğer kaynaklar) [kaybetmek istemez](/loss-aversion/) ve tutarsız görünmek istemeyiz.
 
 "I will keep reading this book that I'm 100 pages into although I don't really like it." Sounds familiar? Sure, you already spent time and money on the book, but you can’t get it back. This distortion of our decisions by emotional investments is called the *sunk cost fallacy*. It leads us to continue a behavior as a result of previously invested resources ([Arkes & Blumer, 1985](http://www.sciencedirect.com/science/article/pii/0749597885900494)).
 
