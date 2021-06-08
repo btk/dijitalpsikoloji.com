@@ -27,40 +27,49 @@ BJ Fogg'un davranış modeline göre, istenen davranışın gerçekleşmesi içi
 
 Harekete geçirici mesajlar, kullanıcılarınıza rehberlik eden ve ne yapacaklarını söyleyen bir buton, grafik veya metin biçiminden oluşabilecek bir dış tetikleyicidir. Bu mesajların stilleri, renk, konum veya boyutlarındaki en küçük değişiklikler bile dönüşüm oranında büyük artışlara yol açabilir: Örneğin Black and Decker, "Alışveriş Yap" yerine "Şimdi satın al" butonu kullanarak [tıklama oranında %17 artış](https://blog.optimizely.com/2014/07/03/black-decker-discovers-big-win-in-buy-now-vs-shop-now-test/) elde etti. Bir butondaki bir-iki kelimenin bile temel ölçütler üzerinde büyük bir etkisi olabiliyor.
 
-![Triggers Example: Call to actions](01-cta.png)
+![Tetikleyici Örneği: Harekete geçirici mesajlar](01-cta.png)
 
 
-### App icon on home screen
-We [touch our phone 2,617 times a day and unlock it 76 times](https://blog.dscout.com/mobile-touches). Whenever we see the grid of apps, we're confronted with potential triggers. Red badges, which signal what we've missed, increase the sense of urgency even more. Remind your mobile visitors with an [install banner](https://developers.google.com/web/fundamentals/engage-and-retain/app-install-banners/) that they can add your website to their home screen and launch it in the full-screen mode, like a real native app.
+### Ana ekrandaki uygulama simgeleri
 
-![Triggers Example: App icon on home screen](02-app-icon-on-home-screen.png)
+Bizler [bir günde telefonumuza 2,167 kere dokunuyoruz ve
+76 kere ekran kilidimizi açıyoruz](https://blog.dscout.com/mobile-touches). Her uygulamalar sekmesine baktığımızda potansiyel tetikleyicilerle karşı karşıya kalıyoruz. Uygulamaların üzerindeki kırmızı bildirimler sanki bir şeyler kaçırıyorum hissini (FOMO) arttırıyor. Mobil kullanıcılarınıza, web sitenizi [uygulama gibi ](https://developers.google.com/web/fundamentals/engage-and-retain/app-install-banners/) ana ekranlarına yükleyebileceğini ve bu şekilde sanki normal bir uygulamaymışçasına tam ekran modunda kullanabileceklerini hatırlatın.
 
-
-### Push notifications
-According to Localytics, [52%](http://info.localytics.com/blog/52-percent-of-users-enable-push-messaging) of all mobile users enable push notifications on their phone. If done right, they can have open-rates of up to [80%](https://www.thanx.com/push-notifications-vs-email-whats-better-for-reaching-customers/) and are, therefore, effective external triggers to persuade people to complete certain tasks. Good push notifications are well-timed, explicit, and spark curiosity.
-
-![Triggers Example: Push notifications](03-push-notifications.png)
+![Tetikleyici Örneği: Ana ekrandaki uygulama simgeleri](02-app-icon-on-home-screen.png)
 
 
-### Software updates
-Have you ever been reminded through app updates that you have an app installed that you’ve forgotten is even on your phone? Releasing updates strategically can be a part of your marketing to retain existing users. Mobile systems like iOS and Android have update notifications built in. In addition to that, or for other platforms like web and desktop, you can send product update emails to inform your users about new features.
+### Push bildirimleri
+Localytics'e göre, mobil kullanıcıların [52%](http://info.localytics.com/blog/52-percent-of-users-enable-push-messaging)'sinin telefonlarında push bildirimlerini aktif. Eğer ki push bildirimleri gerektiği gibi kullanırsa bu sayının [80%](https://www.thanx.com/push-notifications-vs-email-whats-better-for-reaching-customers/)'e kadar çıkabileceği söyleniyor. Yani bu bildirimler insanlara bir şeyler yaptırmak için etkili dış tetikleyicilerdir. Kaliteli push bildirimleri; iyi zamanlanmış, verdiği mesajı açık ve merak uyandırıcı olmalıdır.
 
-![Triggers Example: Software updates](04-software-updates.png)
-
-
-### Browser extension icons
-Look at the menu bar in your browser. How many third party add-ons do you see there? Each time you open your browser, you notice these shiny icons, either consciously or unconsciously. For many companies, like Pinterest, Buffer, or Pocket, browser extensions are an essential part of a seamless workflow.
-
-![Triggers Example: Browser extension icons](05-browser-extension-icons.png)
+![Tetikleyici Örneği: Push bildirimleri](03-push-notifications.png)
 
 
-### Injecting content into other websites
-Browser add-ons can modify the current page you’re on. Buffer, for example, adds a “Buffer” button in various places when you’re on Twitter. Refind, a social bookmarking service, injects and highlights links that you saved when you search on Google, so that you can read them when you need them. The Pinterest browser plugin adds a “Save” and “Discover similar” button to every image you hover your mouse over.
+### Yazılım Güncellemeleri
 
-![Triggers Example: Injecting content into other websites](06-injecting-content.png)
+Daha önce hiç telefona yüklediğinizi bile unuttuğunuz uygulamaların güncellenmesi gerektiği ile ilgili hatırlatma aldınız mı? Güncellemeler pazarlama ve hali hazırda olan kullanıcıların geri dönmesi için taktiksel olarak da kullanılabilir. İos ve Android gibi mobil işletim sistemlerinde yerleşik olarak güncelleme bildirimleri olur. Aynı zamanda masaüstü ya da web tabanlı platformlar için de, güncellemeler için e-postalar atıp kullanıcıları yeni özellikleriniz için bilgilendirebilir ve aynı zamanda kendinizi hatırlatabilirsiniz.
+
+![Tetikleyici Örneği: Yazılım Güncellemeleri](04-software-updates.png)
 
 
-### Unread count badge
+### Tarayıcı uzantılarının simgeleri
+
+Tarayıcınızdaki menü çubuğuna bakın. Kaç tane üçünçü taraf eklenti görüyorsunuz? Her tarayıcınızı açtığınız zaman, bilinçli ya da bilinçsiz olarak o dikkat çekici parlak simgeleri fark edersiniz. Pinterest, Buffer ya da Pocket gibi birçok şirket için tarayıcı uzantıları kendi sorumsuz  iş akışları için önemlidir.
+
+![Tetikleyici Örneği: Tarayıcı uzantılarının simgeleri](05-browser-extension-icons.png)
+
+
+### İçeriği diğer web sitelerine entegre etme
+
+Tarayıcı eklentileri o an kullandığınız ekranı kendisine göre  değiştirebilir. Örneğin; Buffer eklentisini kullanırken Twitter'da gezerseniz  "Buffer" kendisi için çeşitli yerlere kendi butonunu koyacaktır. Bir sosyal yer imi hizmeti sağlayan Refind, Google'da gezerken kaydettiğiniz  bağlantıları vurgular ve saklar böylece ihtiyacınız olduğu zaman okuyabilirsiniz. Pinterest eklentisi ise imlecinizi üstüne getirdiğini resmin üzerine "Kaydet" ve "Benzerlerini keşfet" butonlarını ekler.
+
+
+![Tetikleyici Örneği: İçeriği diğer web sitelerine entegre etme](06-injecting-content.png)
+
+
+### Okunmamış bildirim sayısı
+
+İki tip insan vardır: yüzlerce okunmamış bildirimi olanlar ve bir tane bile okunmamış bildirimi olsa bile ona bakana kadar rahatlayamayanlar. Bildirim simgeleri
+
 There are two types of users: those with hundreds of unread notifications, and those who can't relax until everything is cleared out. Notification badges are an easy way to indicate if there have been new activities or actions requiring our interest. These counters are often seen above mobile app icons, in the menu bar of web applications, or in browser tabs set via the HTML document title. It's also possible to show a [counter in your favicon](http://lab.ejci.net/favico.js/).
 
 ![Triggers Example: Unread count badge](07-unread-count-badge.png)
