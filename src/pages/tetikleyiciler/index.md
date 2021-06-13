@@ -23,25 +23,26 @@ BJ Fogg'un davranış modeline göre, istenen davranışın gerçekleşmesi içi
 ## Örnekler
 
 
-### Harekete geçirici mesajlar (Call-to-action)
+### Harekete Geçirici Mesajlar (Call-to-action)
 
 Harekete geçirici mesajlar, kullanıcılarınıza rehberlik eden ve ne yapacaklarını söyleyen bir buton, grafik veya metin biçiminden oluşabilecek bir dış tetikleyicidir. Bu mesajların stilleri, renk, konum veya boyutlarındaki en küçük değişiklikler bile dönüşüm oranında büyük artışlara yol açabilir: Örneğin Black and Decker, "Alışveriş Yap" yerine "Şimdi satın al" butonu kullanarak [tıklama oranında %17 artış](https://blog.optimizely.com/2014/07/03/black-decker-discovers-big-win-in-buy-now-vs-shop-now-test/) elde etti. Bir butondaki bir-iki kelimenin bile temel ölçütler üzerinde büyük bir etkisi olabiliyor.
 
-![Tetikleyici Örneği: Harekete geçirici mesajlar](01-cta.png)
+![Tetikleyici Örneği: Harekete Geçirici Mesajlar (Call-to-action)](01-cta.png)
 
 
-### Ana ekrandaki uygulama simgeleri
+### Ana Ekrandaki Uygulama Simgeleri
 
 Bizler [bir günde telefonumuza 2,167 kere dokunuyoruz ve
 76 kere ekran kilidimizi açıyoruz](https://blog.dscout.com/mobile-touches). Her uygulamalar sekmesine baktığımızda potansiyel tetikleyicilerle karşı karşıya kalıyoruz. Uygulamaların üzerindeki kırmızı bildirimler sanki bir şeyler kaçırıyorum hissini (FOMO) arttırıyor. Mobil kullanıcılarınıza, web sitenizi [uygulama gibi ](https://developers.google.com/web/fundamentals/engage-and-retain/app-install-banners/) ana ekranlarına yükleyebileceğini ve bu şekilde sanki normal bir uygulamaymışçasına tam ekran modunda kullanabileceklerini hatırlatın.
 
-![Tetikleyici Örneği: Ana ekrandaki uygulama simgeleri](02-app-icon-on-home-screen.png)
+![Tetikleyici Örneği: Ana Ekrandaki Uygulama Simgeleri](02-app-icon-on-home-screen.png)
 
 
-### Push bildirimleri
+### Push Bildirimleri
+
 Localytics'e göre, mobil kullanıcıların [52%](http://info.localytics.com/blog/52-percent-of-users-enable-push-messaging)'sinin telefonlarında push bildirimlerini aktif. Eğer ki push bildirimleri gerektiği gibi kullanırsa bu sayının [80%](https://www.thanx.com/push-notifications-vs-email-whats-better-for-reaching-customers/)'e kadar çıkabileceği söyleniyor. Yani bu bildirimler insanlara bir şeyler yaptırmak için etkili dış tetikleyicilerdir. Kaliteli push bildirimleri; iyi zamanlanmış, verdiği mesajı açık ve merak uyandırıcı olmalıdır.
 
-![Tetikleyici Örneği: Push bildirimleri](03-push-notifications.png)
+![Tetikleyici Örneği: Push Bildirimleri](03-push-notifications.png)
 
 
 ### Yazılım Güncellemeleri
@@ -51,61 +52,71 @@ Daha önce hiç telefona yüklediğinizi bile unuttuğunuz uygulamaların günce
 ![Tetikleyici Örneği: Yazılım Güncellemeleri](04-software-updates.png)
 
 
-### Tarayıcı uzantılarının simgeleri
+### Tarayıcı Uzantılarının Simgeleri
 
 Tarayıcınızdaki menü çubuğuna bakın. Kaç tane üçünçü taraf eklenti görüyorsunuz? Her tarayıcınızı açtığınız zaman, bilinçli ya da bilinçsiz olarak o dikkat çekici parlak simgeleri fark edersiniz. Pinterest, Buffer ya da Pocket gibi birçok şirket için tarayıcı uzantıları kendi sorumsuz  iş akışları için önemlidir.
 
-![Tetikleyici Örneği: Tarayıcı uzantılarının simgeleri](05-browser-extension-icons.png)
+![Tetikleyici Örneği: Tarayıcı Uzantılarının Simgeleri](05-browser-extension-icons.png)
 
 
-### İçeriği diğer web sitelerine entegre etme
+### İçerikleri Diğer Web Sitelerine Entegre Etmek
 
 Tarayıcı eklentileri o an kullandığınız ekranı kendisine göre  değiştirebilir. Örneğin; Buffer eklentisini kullanırken Twitter'da gezerseniz  "Buffer" kendisi için çeşitli yerlere kendi butonunu koyacaktır. Bir sosyal yer imi hizmeti sağlayan Refind, Google'da gezerken kaydettiğiniz  bağlantıları vurgular ve saklar böylece ihtiyacınız olduğu zaman okuyabilirsiniz. Pinterest eklentisi ise imlecinizi üstüne getirdiğini resmin üzerine "Kaydet" ve "Benzerlerini keşfet" butonlarını ekler.
 
 
-![Tetikleyici Örneği: İçeriği diğer web sitelerine entegre etme](06-injecting-content.png)
+![Tetikleyici Örneği: İçerikleri Diğer Web Sitelerine Entegre Etmek](06-injecting-content.png)
 
 
-### Okunmamış bildirim sayısı
+### Okunmamış Bildirim Sayısı
 
-İki tip insan vardır: yüzlerce okunmamış bildirimi olanlar ve bir tane bile okunmamış bildirimi olsa bile ona bakana kadar rahatlayamayanlar. Bildirim simgeleri
-
-There are two types of users: those with hundreds of unread notifications, and those who can't relax until everything is cleared out. Notification badges are an easy way to indicate if there have been new activities or actions requiring our interest. These counters are often seen above mobile app icons, in the menu bar of web applications, or in browser tabs set via the HTML document title. It's also possible to show a [counter in your favicon](http://lab.ejci.net/favico.js/).
-
-![Triggers Example: Unread count badge](07-unread-count-badge.png)
+İki tip insan vardır: yüzlerce okunmamış bildirimi olanlar ve bir tane bile okunmamış bildirimi olsa bile ona bakana kadar rahatlayamayanlar.**Notification badges are an easy way to indicate if there have been new activities or actions requiring our interest**. Bu bildirim sayacları genellikle uygulama simgelerinin üstlerinde, web uygulamalarının menü çubuklarında ya da HTML belge başlığı tarayıcılığıyla oluşturulan belge başlığı şeklinde olabilir. Aynı zamanda [faviconunuz'da bildirim sayacı](http://lab.ejci.net/favico.js/) göstermeniz de mümkündür.
 
 
-### Transactional emails
-You sign up for a web app, and get welcomed with a lovely message in your inbox – that's a transactional email. A user's interaction or a time-based condition triggers these types of notifications. According to an email marketing study conducted by IBM, transactional emails have a [higher open-rate, by 116%](https://www-01.ibm.com/marketing/iwm/dre/signup?source=urx-13772&S_PKG=ov56286), than marketing emails because they're personalized, and we typically expect them. Common use cases include welcome emails, password resets, purchase confirmations, or notifications of important activities going on in your application.
-
-![Triggers Example: Transactional emails](08-transactional-emails.png)
+![Tetikleyici Örneği: Okunmamış Bildirim Sayısı](07-unread-count-badge.png)
 
 
-### Marketing emails
-There are many names, but all describe the same thing: Bulk, promotional, commercial, broadcast, or just marketing emails. Unlike transactional emails, this type is sent to more than one person, but contains the same content. Just a customized salutation does not make it different. Some examples are messages about product updates, website launches, event invitations, exclusive offers, and giveaways. It’s a thin line between retaining existing customers and being marked as spam. Only email people who have given you permission, don’t overdo it, but also don’t wait too long before contacting your subscribers. Stale email lists can lead to high bounce-rates and unsubscribes.
+### İşlem E-postaları
 
-![Triggers Example: Marketing emails](09-marketing-emails.png)
+Bir uygulamaya kaydoldunuz ve gelen kutunuza hoş bir hoş geldin mesajı alırsınız işte buna "işlem e-postası" denir. Kullanıcıların etkileşimi ya da zamana dayalı koşul bu tür bildirimleri tetikler. IBM'nin yürüttüğü bir e-posta pazarlaması araştırmasına göre; işlem e-postalarının, pazarlama e-postalarına göre [%116 daha fazla açılma oranı](https://www-01.ibm.com/marketing/iwm/dre/signup?source=urx-13772&S_PKG=ov56286) varmış çünkü işlem e-postaları kişiselleştirilmiştir ayrıca alıştığımız için bu e-postaların gelmesini de bekleriz. İşlem e-postaları genellikle hoş geldiniz, parola sıfırlama, sipariş onaylama, bildirimler ya da önemli olayları haber veren maillerdir.
 
-
-### Bookmarked sites
-We, as humans, have a [fear of losing things that we already own](/loss-aversion/). So, we bookmark websites that seem interesting – some of us hoard them, literally. Once in a while, when we dare to go through the folder of bookmarks, we're faced with a huge list of potential triggers.
-
-![Triggers Example: Bookmarked sites](10-bookmarked-sites.png)
+![Tetikleyici Örneği: İşlem E-postaları](08-transactional-emails.png)
 
 
-### Wish lists and favorites
-Similar to the concept of bookmarks, we often see a “favorites” feature in many applications. Amazon and Airbnb call them wish lists. Twitter stores your favorite tweets under *Likes*, and on your phone, you can add contacts to *Favorites*. Giving a bookmarking mechanism to your users can increase the overall engagement on your platform. With every added favorite, the [user commits](/commitment-consistency/) more to the usage of the product.
+### Pazarlama E-postaları
 
-![Triggers Example: Wish lists and favorites](11-wish-lists.png)
+Toplu, promosyon, ticari, yayın gördüğünüz gibi pazarlama e-postalarının birçok ismi var. İşlem e-postalarından farklı olarak tek bir kişidense toplu olarak ama aynı içerikle gönderilir. Başındaki ufak bir selamlamada kullanıcı adı ya da gönderilen kişinin adının yazması onu özel bir e-posta yapmaz. Örnek olarak; ürün güncellemeleri, web sitesi lansmanları, etkinlik davetleri, özel teklifler ve çekilişler gösterilebilir. Müşterilerinize ulaşabilmek ile spam olarak etiketlenmek arasında ince bir çizgi var. Sadece size izin veren kullanıcılara gönderin, aşırıya kaçmayın, ama abonelerinizle iletişime geçmek için çok da fazla beklemenize gerek yok. Üzerinden zaman geçmiş e-posta listeleri yüksek oranda abone kaybetmenize neden olabilir.
 
 
-### Search suggestions
-The autocomplete design pattern has become somewhat of a convention for search functionalities. Search suggestions can help to create better queries by guiding users to the results they want. It can also encourage an exploratory search when the suggestions provided are relevant.
 
-![Triggers Example: Search suggestions](12-search-suggestions.png)
+![Tetikleyici Örneği: Pazarlama E-postaları](09-marketing-emails.png)
+
+
+###  Yer İmi Eklenmiş Siteler
+
+Bizler insan olarak [sahip olduğumuz şeyleri kaybetme korkusu](/loss-aversion/)'na sahibiz. Bu yüzden ilg çekici  siteleri yer imlerine ekliyoruz hatta bazılarımız hiç bakmasa bile bunları yarınlar yokmuşçasına biriktirir. Arada bir yer imleri klasörüne bakmaya cesaret ettiğimizde kocaman bir potansiyel tetikleyici listesine mağruz kalırız.
+
+
+![Tetikleyici Örneği: Yer İmi Eklenmiş Siteler](10-bookmarked-sites.png)
+
+
+### İstek Listeleri ve Favoriler
+
+Yer imleriyle benzer bir konsepte sahip olan favoriler özelliğini, çoğu uygulamada sıklıkla görebiliriz. Amazon ve Airbnb ise favori yerine "istek listesi demeyi tercih ediyor. Twitter favorilerinizi "Beğeniler" kısmında tutuyor, ve telefon rehberinizde kişilerinizi "Favoriler" kısmına ekleyebilirsiniz. Kullancılara yer imi özelliği vermeniz onların genel olarak platformla olan etkileşimini arttırır. Eklenen her favori ile [kullanıcı daha fazla kullanım taahahüt eder](/commitment-consistency/).
+
+![Tetikleyici Örneği: İstek Listeleri ve Favoriler](11-wish-lists.png)
+
+
+### Arama Önerileri
+
+Otomatik tamamlama modeli bütün arama işlevleri için bir ortak payda haline geldi. Arama önerileri, kullanıcıları istedikleri sonuçlara yönlendirerek daha iyi bir sorgulama oluşturabilir. Aynı zamanda, sağlanan öneriler aramayla alakalı olduğunda insanları daha fazla araştırmaya teşvik edebilir.
+
+![Tetikleyici Örneği: Arama Önerileri](12-search-suggestions.png)
 
 
 ### Paid media
+
+
+
 Everything from web banners to paid search marketing is used to acquire new customers, and falls within the category of paid triggers. It’s an effective way to expose your product’s name to a broad audience within a short time. Paid channels will continue to evolve with more features aimed at providing better audience targeting and, thus, better experiences for visitors. According to the research from [Ascend2](http://research.ascend2.com/2017-content-marketing-distribution-survey-summary-report/), 67% of the marketers interviewed said that search engine marketing is the most effective paid channel to distribute content, followed by social media ads with 50%.
 
 ![Triggers Example: Paid media](13-paid-media.png)
