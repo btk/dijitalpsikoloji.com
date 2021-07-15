@@ -10,79 +10,94 @@ Hayatımızda sürekliliği yakalamak için elimizden gelen her şeyi yaparız. 
 
 ## Araştırmalar
 
-Everyone knows at least one project where costs exploded many times over. Sometimes, managers, and even entire organizations, seem almost programmed to follow a direction that is doomed to failure. Escalation of commitment refers to the tendency to stay with a decision and to dedicate additional effort, money, and time into a course of action that is failing ([Staw, 1976](http://www.sciencedirect.com/science/article/pii/0030507376900052)). Genelleme yapmamız gerekirse; hali hazırda yaptığımız yatırımları (zaman ve diğer kaynaklar) [kaybetmek istemez](/loss-aversion/) ve tutarsız görünmek istemeyiz.
+Herkes planlanan maliyetlerin defalarca kez aşıldığı en az bir proje bilir. Hatta bazen, öyle projeler olur ki bu projeler direkt planlı bir şekilde başarısızlığa doğru giden bir yolu takip ediyor gibidir. Bu başarıszlığa giden planlara bağlılık arttıkça daha fazla efor, para ve zaman ayırma eğilimini ifade eder ([Staw, 1976](http://www.sciencedirect.com/science/article/pii/0030507376900052)). Genelleme yapmamız gerekirse; hali hazırda yaptığımız yatırımları (zaman ve diğer kaynaklar) [kaybetmek istemez](/loss-aversion/) ve tutarsız görünmek istemeyiz.
 
-"I will keep reading this book that I'm 100 pages into although I don't really like it." Sounds familiar? Sure, you already spent time and money on the book, but you can’t get it back. This distortion of our decisions by emotional investments is called the *sunk cost fallacy*. It leads us to continue a behavior as a result of previously invested resources ([Arkes & Blumer, 1985](http://www.sciencedirect.com/science/article/pii/0749597885900494)).
+"Ben bu kitabı ne kadar beğenmesem de en azından 100 sayfa okuyacağım." Bu size tanıdık geliyor mu? Tabi ki, siz bu kitaba hem para verdiniz hem de beğenmediğinize karar verirken okudunuz, bunları geri alamayacağınızı bildiğiniz için de daha fazla üstüne gidiyorsunuz. İşte buna *batık maliyet yanılgısı* denir. Daha önce yatırım yapılan kaynakların bir sonucu olarak bir davranışı sürdürmemize yol açar  ([Arkes & Blumer, 1985](http://www.sciencedirect.com/science/article/pii/0749597885900494)).
 
-The *Ikea effect* is a cognitive bias in which we disproportionately value things more if we put work into them ([Norton, Mochon, & Ariely, 2012](http://www.hbs.edu/faculty/Pages/item.aspx?num=41121)). This phenomenon has a range of possible explanations. A successful completion of a task gives us the feeling of competence and puts us in a positive mood. Another reason could be that we like to justify the efforts that we've invested into a product, so we tend to like it more.
+Ikea etkisi, içine iş koyarsak, şeylere orantısız bir şekilde daha fazla değer verdiğimiz bilişsel bir önyargıdır ([Norton, Mochon, & Ariely, 2012](http://www.hbs.edu/faculty/Pages/item.aspx?num=41121)). Bu fenomenin bir dizi olası açıklaması vardır. Bir görevin başarıyla tamamlanması bize yeterlilik duygusu verir ve bizi olumlu bir ruh haline sokar. Bir başka neden de, bir ürüne harcadığımız çabaları haklı çıkarmayı sevmemiz olabilir, bu yüzden onu daha çok sevme eğilimindeyiz.
 
-People use the current situation as a reference point, and any change from that is perceived as a loss. We prefer familiarity and tend to resist change. This phenomenon is known as the *status quo bias* ([Samuelson & Zeckhauser, 1988](https://sites.hks.harvard.edu/fs/rzeckhau/SQBDM.pdf)).
-
-
-## Examples
+İnsanlar mevcut durumu bir referans noktası olarak kullanırlar ve herhangi bir değişikliği bir kayıp olarak algılarlar. Biz alışık olduğumuz şeyleri tercih ediyoruz ve değişime karşı bir direnç gösteriyoruz. Bu fenomone ise *statüko yanılgısı* denir ([Samuelson & Zeckhauser, 1988](https://sites.hks.harvard.edu/fs/rzeckhau/SQBDM.pdf)).
 
 
-### Home try-on programs
-Many online eyeglass retailers let their potential customers receive multiple glasses to try on before buying. The convenience of this service lets someone find the perfect frames and get feedback from friends and family. They say there's no commitment, but the moment you put a pair of their glasses on your face, it's unlikely that you'll move forward without buying.
 
-![Commitment and consistency example: Home try-on programs](01-home-try-on-programs.png)
+## Örnekler
 
 
-### Social media contests
-Run a contest that encourages your prospective customers to self-identify as fans of your brand by requiring them, for example, to upload a photo of themselves in a particular situation. When someone makes a public commitment, it’s easier to get them to do stuff. The more public, the stronger the influence on future actions. A study shows that people who state publicly that they want to lose weight were significantly more successful ([Nyer & Delande, 2009](http://onlinelibrary.wiley.com/doi/10.1002/mar.20316/abstract)).
+### Evde Dene Programları
 
-![Commitment and consistency example: Social media contests](02-social-media-contests.png)
+Birçok çevrimiçi gözlük perakendecisi, potansiyel müşterilerinin satın almadan önce denemeleri için birden fazla gözlük almasına izin verir. Bu hizmetin rahatlığı, müşteririnin mükemmel çerçeveleri bulmasını ve çevresinden geri bildirim almasını sağlar. Şirketler satın alma zorunluluğu olmadığını söylüyorlar, ancak bir çift gözlüğü yüzünüze taktığınız an, satın almadan durmanız pek mümkün değil.
 
-
-### Online auctions
-Auction sites are designed to push people's emotional buttons. Even before it begins, bidders imagine themselves in a winning situation. With their first bid, commitment and consistency kick in. It's not uncommon for potential buyers to increase their maximum bid above a value they're comfortable with, just to win an item. Many describe this phenomenon as *auction fever*.
-
-![Commitment and consistency example: Online auctions](03-online-auctions.png)
+![Adanma ve Süreklilik Örneği: Evde Dene Programları](01-home-try-on-programs.png)
 
 
-### Pop-ups with Yes/No questions
-Let's face it: Pop-ups are not the most pleasant things on the internet - but they seem to work very well for some people. There is a trend in the recent years, where visitors are given a choice when a pop-up appears: either say "yes" to leave your email address in a second step to get a freebie, or be foolish and choose "no." This tactic is commonly known as the *foot-in-the-door* technique, where a small agreement paves the way for subsequent, larger requests ([Freedman & Fraser, 1966](https://www.researchgate.net/publication/17217362_Compliance_Without_Pressure_The_Foot-in-the-Door_Technique)).
+### Sosyal Medya Yarışmaları
 
-![Commitment and consistency example: Pop-ups with Yes/No questions](04-popups.png)
+Potansiyel müşterilerinizi, örneğin belirli bir durumda kendi fotoğraflarını yüklemelerini isteyerek, kendilerini markanızın hayranı olarak tanımlamaya teşvik eden bir yarışma düzenleyin .Birisi halka açık bir taahhütte bulunduğunda, onlara bir şeyler yaptırmak her zaman kolaylaşır. Bir araştırma ne kadar çok halka açık olursa, gelecekteki eylemler üzerindeki etkisi o kadar güçlü olur.
+Bir araştırma, kilo vermek istediğini alenen ifade eden kişilerin önemli ölçüde daha başarılı olduğunu göstermektedir ([Nyer & Delande, 2009](http://onlinelibrary.wiley.com/doi/10.1002/mar.20316/abstract)).
 
-
-### Wish lists
-Give customers a choice between buying the product immediately or saving it for another time. E-commerce sites like Amazon know that when you add something to your wish list, you will be more likely to buy it later because you have already acknowledged your desire to do so.
-
-![Commitment and consistency example: Wish lists](05-wish-lists.png)
+![Adanma ve Süreklilik Örneği: Sosyal Medya Yarışmaları](02-social-media-contests.png)
 
 
-### Asking for sensitive information last
-When setting up a payment or onboarding process, ask your users for personal details like their email address or credit card information at the end. By starting with the easiest tasks, your user will already be fully engaged in the process when it comes to the more sensitive information. Because he already invested his time so far, the user will be more likely to complete the whole process (sunk cost fallacy).
+### Online Açık Arttırma
 
-![Commitment and consistency example: Asking for sensitive information last](06-asking-for-sensitive-information-last.png)
-
-
-### Cross-selling
-Remember that smartphone you checked out online? The store may have recommended a screen protector or case to go along with your phone. That's cross-selling. When we decide to buy something, we're more inclined to buy additional accessories, as we want to justify our initial decision and to remain consistent with it. Amazon, for example, attributes up to [35% of its revenue](http://www.the-future-of-commerce.com/2013/10/14/ecommerce-cross-sell-up-sell/) to cross-selling.
-
-![Commitment and consistency example: Cross-selling](07-cross-selling.png)
+Açık artırma siteleri, insanların duygusal düğmelerine basmak için tasarlanmıştır. Daha başlamadan, teklif sahipleri kendilerini kazanan olarak hayal ederler. Potansiyel alıcıların, yalnızca bir öğeyi kazanmak için maksimum tekliflerini rahat oldukları bir değerin üzerine çıkarmaları nadir değildir. Birçoğu bu fenomeni *müzayede ateşi* olarak tanımlar.
 
 
-### Freemium and free trials
-Another way to invoke the principles of commitment and consistency is by offering a free trial or a freemium model like Dropbox does: When no free storage is left, or the trial has expired, customers will be more inclined to upgrade to a paid plan since they've already committed to learning, setting up, and using the new service.
-
-![Commitment and consistency example: Freemium and free trials](08-freemium-free-trials.png)
+![Adanma ve Süreklilik Örneği: Online Açık Arttırma](03-online-auctions.png)
 
 
-### Commitment checkbox
-A mortgage company increased its [conversion rate by 11%](http://www.conversionvoodoo.com/blog/2010/07/11-conversion-rate-increase-with-a-%E2%80%9Ccommitment-checkbox%E2%80%9D/) with just adding a "commitment checkbox."
+### Pop-up'lu Evet/Hayır Soruları
 
-![Commitment and consistency example: Commitment checkbox](09-commitment-checkbox.png)
+Kabul edelim: Pop-up'lar internetteki en hoş şeyler değil -ama bazı insanlar için çok iyi çalışıyor gibi görünüyorlar. Son yıllarda, bir pop-up göründüğünde ziyaretçilere bir seçenek verildiği bir eğilim var: ya "evet" deyin ve bir bedava almak için ikinci adımda e-posta adresinizi bırakın ya da aptal olun ve "hayır"ı seçin. Bu taktik, yaygın olarak, küçük bir anlaşmanın sonraki, daha büyük taleplerin önünü açtığı, *kapıya ayak basma tekniği* olarak bilinir ([Freedman & Fraser, 1966](https://www.researchgate.net/publication/17217362_Compliance_Without_Pressure_The_Foot-in-the-Door_Technique)).
 
-
-### Network effect
-When a greater number of users increases a product's value, then we have a network effect. Skype, Instagram, Airbnb, or eBay get better with the more people who join the network. Once we have committed, for example, to a messaging app like WhatsApp and convinced our peers to follow, it's doubtful that we'll try something different.
-
-![Commitment and consistency example: Network effect](10-network-effect.png)
+![Adanma ve Süreklilik Örneği: Pop-up'lu Evet/Hayır Soruları](04-popups.png)
 
 
-### User-generated content
-Each time a user feeds an application like Dropbox, Twitter, or Evernote with information, he stores value in the form of data. The bigger and more often these investments, the more likely it is that the user will come back again and again.
+### İstek listesi
 
-![Commitment and consistency example: User-generated content](11-user-generated-content.png)
+Müşterilere ürünü hemen satın alma veya başka bir zaman satın alma için seçim yapma şansı verin. Amazon gibi e-ticaret siteleri, istek listenize bir şey eklediğinizde, daha sonra satın alma olasılığınızın daha yüksek olacağını bilir çünkü satın alma arzunuzu zaten kabul etmişsinizdir.
+
+
+![Adanma ve Süreklilik Örneği: İstek listesi](05-wish-lists.png)
+
+
+### Hassas Bilgileri En Son İstemek
+
+Bir ödeme veya işe alım süreci ayarlarken, kullanıcılarınızdan e-posta adresleri veya kredi kartı bilgileri gibi kişisel bilgilerini en son isteyin. En kolay görevlerden başlayarak, kullanıcı bu sürecin içine iyice dahil olacak ve daha hassas bilgiler söz konusu olduğunda, şimdiye kadarki zamanını yatırdığı için kullanıcının tüm süreci tamamlama olasılığı daha yüksek olacaktır(batık maliyet yanılgısı).
+
+![Adanma ve Süreklilik Örneği: Hassas Bilgileri En Son İstemek](06-asking-for-sensitive-information-last.png)
+
+
+### Çapraz Satış
+
+İnternetten  satın almak için akıllı telefona baktığınızı hatırlıyor musunuz? Mağaza, telefonunuzla birlikte kullanmanız için bir ekran koruyucu veya kılıf önermiş olabilir. İşte bu çapraz satıştır. Bir şey almaya karar verdiğimizde, ilk kararımızı haklı çıkarmak ve onunla tutarlı olmak istediğimizden ek aksesuarlar almaya daha meyilliyizdir. Örneğin Amazon, gelirinin [gelirinin %35'ini](http://www.the-future-of-commerce.com/2013/10/14/ecommerce-cross-sell-up-sell/) çapraz satışa bağlıyor.
+
+![Adanma ve Süreklilik Örneği: Çapraz Satış](07-cross-selling.png)
+
+
+### Freemium (Ücretsiz Versiyon) ve Ücretsiz Denemeler
+
+Bağlılık ve tutarlılık ilkelerine başvurmanın bir başka yolu da ücretsiz deneme sürümü veya Dropbox'ın yaptığı gibi ücretsiz bir versiyon sunmaktır: Ücretsiz depolama alanı kalmadığında veya deneme süresi dolduğunda, müşteriler ücretli bir plana yükseltmeye daha meyilli olacaklardır, zaten yeni hizmeti öğrenmeye, kurmaya ve kullanmaya kendini adamıştır.
+
+![Adanma ve Süreklilik Örneği: Freemium (Ücretsiz Versiyon) ve Ücretsiz Denemeler](08-freemium-free-trials.png)
+
+
+### Taahhüt Onay Kutusu
+
+Bir ipotek şirketi sadece taahhüt onay kutusu ekleyerek [geri dönüş oranını %11](http://www.conversionvoodoo.com/blog/2010/07/11-conversion-rate-increase-with-a-%E2%80%9Ccommitment-checkbox%E2%80%9D/) arttırdı.
+
+![Adanma ve Süreklilik Örneği: Taahhüt Onay Kutusu](09-commitment-checkbox.png)
+
+
+### Ağ Etkisi
+
+Daha fazla sayıda kullanıcı bir ürünün değerini artırdığında, bir  ağ etkisine sahibiz. Skype, İnstagram, Airbnb veya eBay, ağa katılan daha fazla insanla daha iyi hale gelir. Örneğin, WhatsApp gibi bir mesajlaşma uygulamasına bağlı kaldığımızda ve akranlarımızı rehberimize kaydettiğimize, farklı bir şey deneyeceğimiz şüphelidir.
+
+![Adanma ve Süreklilik Örneği: Ağ Etkisi](10-network-effect.png)
+
+
+### Kullanıcı Tarafından Oluşturulan İçerik
+
+Bir kullanıcı Dropbox, Twitter veya Evernote gibi bir uygulamayı her bilgiyle beslediğinde, değeri veri biçiminde depolar. Bu yatırımlar ne kadar büyük ve sık olursa, kullanıcının tekrar tekrar gelme olasılığı o kadar artar.
+
+![Adanma ve Süreklilik Örneği: Kullanıcı Tarafından Oluşturulan İçerik](11-user-generated-content.png)
