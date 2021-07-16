@@ -84,6 +84,8 @@ Bağlılık ve tutarlılık ilkelerine başvurmanın bir başka yolu da ücretsi
 
 ### Taahhüt Onay Kutusu
 
+@burak
+
 Bir ipotek şirketi sadece taahhüt onay kutusu ekleyerek [geri dönüş oranını %11](http://www.conversionvoodoo.com/blog/2010/07/11-conversion-rate-increase-with-a-%E2%80%9Ccommitment-checkbox%E2%80%9D/) arttırdı.
 
 ![Adanma ve Süreklilik Örneği: Taahhüt Onay Kutusu](09-commitment-checkbox.png)
@@ -91,7 +93,9 @@ Bir ipotek şirketi sadece taahhüt onay kutusu ekleyerek [geri dönüş oranın
 
 ### Ağ Etkisi
 
-Daha fazla sayıda kullanıcı bir ürünün değerini artırdığında, bir  ağ etkisine sahibiz. Skype, İnstagram, Airbnb veya eBay, ağa katılan daha fazla insanla daha iyi hale gelir. Örneğin, WhatsApp gibi bir mesajlaşma uygulamasına bağlı kaldığımızda ve akranlarımızı rehberimize kaydettiğimize, farklı bir şey deneyeceğimiz şüphelidir.
+Daha fazla sayıda kullanıcı bir ürünün değerini arttırdığında, bir  ağ etkisine sahip oluruz. Skype, İnstagram, Airbnb veya eBay, ağa katılan daha fazla insanla daha iyi hale gelir. Örneğin, WhatsApp gibi bir mesajlaşma uygulamasına bağlı kaldığımızda ve akranlarımızı rehberimize kaydettiğimize, farklı bir şey deneyeceğimiz şüphelidir.
+
+@burak
 
 ![Adanma ve Süreklilik Örneği: Ağ Etkisi](10-network-effect.png)
 
