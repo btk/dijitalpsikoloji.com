@@ -9,67 +9,78 @@ seoImage: "seo-image.png"
 Bir şeye sahip olmamız ne kadar zorsa, onu o derece fazla isteriz. İnsanlar genelde bir şeyin mevcut olma veya erişilebilmesi durumunu bu şeyin kalitesine bağlarlar. [Kayıp kahrı](/kayip-kahri/) konseptinde görülebileceği gibi; bir şeyi kaybetme korkusu, bu şeyi elde etme isteğinden daha fazla motive edicidir.
 
 
-## Studies
+## Araştırmalar
 
-Women are more attracted to men who are in a relationship than to single guys ([Parker & Burkley, 2009](http://www.sciencedirect.com/science/article/pii/S0022103109001048?via=ihub)). It seems when something is limited or unattainable, it becomes more attractive.
+Kadınlar ilişkisi olan erkekleri yalnız erkeklerden daha çekici bulurlar ([Parker & Burkley, 2009](http://www.sciencedirect.com/science/article/pii/S0022103109001048?via=ihub)). Yani bir şey ulaşılmaz ya da sınırlıysa bize daha çekici hale gelir.
 
-One study by [Worchel, Lee and Adewole (1975)](http://psycnet.apa.org/record/1976-03817-001) showed that people value cookies more highly if they're scarce. Some participants were given a glass jar with ten cookies, while others only received two. In another condition, where the number of cookies was reduced from ten to two, participants rated these cookies the highest.
+[Worchel, Lee and Adewole (1975)](http://psycnet.apa.org/record/1976-03817-001) tarafından yapılan araştırma insanların kısıtlı bir sayıda olan kurabiyelere daha çok değer verdiğini gösterdi. Bazı katılımcılara bir cam kavanoz içinde on tane kurabiye verilirken bazılarına ise sadece iki tane verildi. Araştırma sonucunda iki adet kurabiye verilenlerin, on adet kurabiye verilenlere göre çok daha yüksek puan verdikleri görüldü.
 
-Scarcity tactics tend to be more effective when targeted at customers who have a greater than average need for uniqueness ([Lynn, 1991](http://scholarship.sha.cornell.edu/cgi/viewcontent.cgi?article=1181&context=articles)).
-
-
-## Examples
+Az bulunurluk taktikleri, daha eşsiz ihtiyaçları olan müşterilerde daha etkili olabiliyor([Lynn, 1991](http://scholarship.sha.cornell.edu/cgi/viewcontent.cgi?article=1181&context=articles)).
 
 
-### Limited stock
-Almost every e-commerce website employs scarcity by showing how few items are available in stock. As shown above in the cookie experiment by Worchel et al., we value those things more that have recently become less available to us.
 
-![Scarcity Example: Limited stock](01-quantity-countdown.png)
+## Örnekler
 
+### Sınırlı Stok
 
-### Limited stock for a particular model or size
-Go even further and show how many items are available for a specific type, color or size or a combination of them.
-
-![Scarcity Example: Limited stock for a particular model or size](02-limited-stock-model.png)
+Hemen hemen her e-ticaret sitesi ürünün stoklarda ne kadar az kaldığını gösterir. Yukarıda Worchel ve diğerleri tarafından yapılan kurabiye deneyinde gösterildiği gibi, son zamanlarda bizim için daha az erişilebilir hale gelen şeylere daha fazla değer veriyoruz.
 
 
-### Exposing people to other buyers
-While you're looking around and considering whether or not to book this hotel room, you suddenly realize that another person is checking out the same property. The fear of loss kicks in. Indicating how many people are currently viewing the same item is a powerful tactic to play up the scarcity game.
-
-![Scarcity Example: Exposing people to other buyers](03-real-time-user-count.png)
+![Az Bulunurluk Örneği: Sınırlı Stok](01-quantity-countdown.png)
 
 
-### Deadlines
-Give your prospects a reason to act now by exposing them to time limits. But, be careful. Unfortunately, some businesses started using this technique in scammy ways, which may lead people to consider your offer more carefully.
+### Belirli Bir Model veya Boyut İçin Sınırlı Stok
 
-![Scarcity Example: Deadlines](04-deadlines.png)
+Daha da ileri gidin ve belirli bir tür, renk veya boyut veya bunların bir kombinasyonu için kaç öğenin mevcut olduğunu gösterin.
 
-
-### Limited time offers with countdown timers
-Use animated timers to draw even more on people’s fear of missing out. This tactic is often used with some perceived benefit for acting fast, like a reduced price or some additional bonus items.
-
-![Scarcity Example: Limited time offers with countdown timers](05-limited-time-countdown.png)
+![Az Bulunurluk Örneği: Belirli Bir Model veya Boyut İçin Sınırlı Stok](02-limited-stock-model.png)
 
 
-### Time constraints for next-day shipping
-Amazon shows the exact remaining time within which the purchase has to be completed to qualify for next-day shipping. Shoppers who need a product immediately will impulsively buy it to ensure that they get it the next day.
+### İnsanlara Diğer Alıcıları Göstermek
 
-![Scarcity Example: Time constraints for next-day shipping](06-next-day-shipping.png)
+İnternetten görüp beğendiğiniz oteli tutmayı düşünürken, bir anda yalnız olmadığınızı ve sizinle birlikte o anda odayla ilgilenen başkaları olduğunu fark edebilirsiniz. O anda kaybetme korkusu tetiklenir. O anda kaç kişinin o ürünle ilgilendiğini göstermek az bulunurluk için güçlü bir taktiktir.
 
-
-### Reducing the free trial length
-When Hiten Shah, the co-founder of KISSmetrics, decreased the length of the trial period from 30 to 14 days, he saw a [102% increase in the usage](https://www.quicksprout.com/2013/01/14/11-obvious-ab-tests-you-should-try/) of the product. The reduction made people feel that they had to use the service as soon as possible.
-
-![Scarcity Example: Reducing the free trial length](07-reducing-trial-period.png)
+![Az Bulunurluk Örneği: İnsanları Diğer Alıcılara Göstermek](03-real-time-user-count.png)
 
 
-### Online auctions
-A single-unit auction combines several scarcity elements at the same time: it's limited by quantity and time. Multiple people bid on one item in a limited timeframe, and there can be only one winner – a mix which led eBay to become such a huge company.
+### Son Tarihler
 
-![Scarcity Example: Online auctions](08-online-auctions.png)
+Beklentilerinizi zaman sınırlarına maruz bırakarak şimdi harekete geçmeleri için bir neden verin. Ama dikkatli olun. Ne yazık ki, bazı işletmeler bu tekniği dolandırıcı yollarla kullanmaya başladı ve bu da insanların teklifinizi daha dikkatli değerlendirmelerine neden olabilir.
+
+![Az Bulunurluk Örneği: Son Tarihler](04-deadlines.png)
 
 
-### Restricting features and content availability
-In today’s online world, everything seems to be permanently available in abundance. Snapchat has reintroduced scarcity into the entertainment sector. If you miss a story on Snapchat, which is only available for 24 hours, you will never see it again. This feature is definitely one part of the app that makes it so sticky, and persuades users to come back. Is there something in your product that can be made artificially scarce?
+### Geri Sayım Sayaçları ile Sınırlı Süreli Teklifler
 
-![Scarcity Example: Restricting features and content availability](09-limiting-feature-availability.png)
+İnsanların bir şeyleri kaçırma korkusundan daha fazla yararlanmak için animasyonlu zamanlayıcıları kullanın. Bu taktik, genellikle, indirimli fiyat veya bazı ek bonus öğeler gibi, hızlı hareket etmek için algılanan bir fayda ile kullanılır.
+
+![Az Bulunurluk Örneği: Geri Sayım Sayaçları ile Sınırlı Süreli Teklifler](05-limited-time-countdown.png)
+
+
+### Ertesi Gün Nakliye İçin Zaman Kısıtlamaları
+
+Amazon, ertesi gün kargo için satın alma işleminin tamamlanması gereken tam kalan süreyi gösterir. Bir ürüne hemen ihtiyaç duyan müşteriler, ertesi gün ellerine geçmelerini sağlamak için dürtüsel olarak satın alırlar.
+
+![Az Bulunurluk Örneği: Ertesi Gün Nakliye İçin Zaman Kısıtlamaları](06-next-day-shipping.png)
+
+
+### Ücretsiz Deneme Süresinin Kısaltılması
+
+KISSmetrics'in kurucu ortağı Hiten Shah, deneme süresini 30 günden 14 güne indirdiğinde, ürünün kullanımında [%102'lik bir artış gördü](https://www.quicksprout.com/2013/01/14/11-obvious-ab-tests-you-should-try/). İndirim, insanlara hizmeti en kısa sürede kullanmaları gerektiğini hissettirdi.
+
+![Az Bulunurluk Örneği: Ücretsiz Deneme Süresinin Kısaltılması](07-reducing-trial-period.png)
+
+
+### Çevrimiçi Açık Artırmalar
+
+Tek birimli bir müzayede, aynı anda birkaç az bulunurluk unsurunu birleştirir: miktar ve zamanla sınırlıdır. Sınırlı bir zaman diliminde birden fazla kişi tek bir ürün için teklif verir ve yalnızca bir kazanan olabilir - işte eBay'i böylesine büyük bir şirket haline getiren de budur.
+
+![Az Bulunurluk Örneği: Çevrimiçi Açık Artırmalar](08-online-auctions.png)
+
+
+### Kısıtlama Özellikleri ve İçerik Kullanılabilirliği
+
+Günümüzün çevrimiçi dünyasında, her şey kalıcı olarak bolca mevcut gibi görünüyor. Snapchat, eğlence sektörüne az bulunurluğu yeniden tanıttı. Sadece 24 saat kullanılabilen Snapchat'te bir hikayeyi kaçırırsanız, bir daha asla göremezsiniz. Bu özellik, kesinlikle uygulamayı bu kadar yapışkan yapan ve kullanıcıları geri gelmeye ikna eden bir parçasıdır. Ürününüzde yapay olarak az bulunur yapılabilecek bir şey var mı?
+
+
+![Az Bulunurluk Örneği: Kısıtlama Özellikleri ve İçerik Kullanılabilirliği](09-limiting-feature-availability.png)
